@@ -20,7 +20,7 @@
 3. Internet Explorer will launch with the specified settings.  
 
 ## Development  
-The **uncompiled batch file** is available in this repository for users who want to inspect or modify the source code.  
+The **batch file** is available in this repository for users who want to inspect or modify the source code.  
 
 ## Download  
 [Download File](https://github.com/Noahscratch493/IEOpener-Plus/blob/main/IE%20Opener%2B.bat)
